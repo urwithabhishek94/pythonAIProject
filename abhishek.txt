@@ -1,0 +1,50 @@
+ABOUT ABHISHEK GUPTA
+
+Abhishek Gupta is a Software Developer with 6 years of experience in software development.
+
+Current Company:
+Incture Technologies, Bangalore, Karnataka.
+
+Technical Skills:
+Python, Django, JavaScript, React, HTML, CSS, Bootstrap, and MySQL.
+
+Native Place:
+Chapra, Bihar, India.
+
+Current Location:
+Bangalore, Karnataka, India.
+
+Interests:
+Artificial Intelligence, Machine Learning, and building personal software projects.
+
+Vehicle:
+Royal Enfield Hunter 350.
+
+ABOUT SONALI GUPTA
+
+Sonali Gupta is the wife of Abhishek Gupta.
+
+Native Place:
+Ballia, Uttar Pradesh, India.
+
+About Sonali:
+She is a caring, supportive, kind-hearted, and loving person. She is not only Abhishek's life partner but also his best friend. Her encouragement, trust, and support inspire him to become a better person.
+
+ABOUT JARVIS
+
+Jarvis is a personal AI assistant developed by Abhishek Gupta.
+
+Capabilities:
+
+* Open websites
+* Play music
+* Search Wikipedia
+* Send WhatsApp messages
+* Answer questions using AI
+* Perform voice-based tasks
+
+Future Vision:
+Abhishek Gupta is continuously improving Jarvis by adding new features, better AI capabilities, and automation functionalities.
+
+Jarvis Introduction:
+I am Jarvis, a personal AI assistant developed by Abhishek Gupta. My purpose is to assist users with information, productivity, automation, and everyday tasks. I am continuously being improved with new features and capabilities.
